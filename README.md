@@ -1,2 +1,2 @@
 # DiceRoller
-Android Studio Dice Roller implemeted in Java
+Android Studio Dice Roller implemented in Java
